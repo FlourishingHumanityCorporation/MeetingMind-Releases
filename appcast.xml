@@ -3,14 +3,14 @@
     <channel>
         <title>MeetingMind</title>
         <item>
-            <title>0.1.3</title>
-            <pubDate>Fri, 17 Jul 2026 22:26:16 -0700</pubDate>
-            <sparkle:version>0.1.3</sparkle:version>
-            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <title>0.1.4</title>
+            <pubDate>Fri, 17 Jul 2026 22:57:40 -0700</pubDate>
+            <sparkle:version>0.1.4</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/FlourishingHumanityCorporation/MeetingMind-Releases/main/MeetingMind-0.1.3.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/FlourishingHumanityCorporation/MeetingMind-Releases/releases/download/v0.1.3/MeetingMind-0.1.3.zip" length="534546457" type="application/octet-stream" sparkle:edSignature="ljL5LcnbMGVMkvPOSGzpvqsl70eowZcsO3iBR48Oz0U5IO5C1wcdIPyTmqOBzpz3NKtWfXdbdoJAHiWbA3XpDw=="/>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/FlourishingHumanityCorporation/MeetingMind-Releases/main/MeetingMind-0.1.4.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/FlourishingHumanityCorporation/MeetingMind-Releases/releases/download/v0.1.4/MeetingMind-0.1.4.zip" length="534546827" type="application/octet-stream" sparkle:edSignature="ge3u2tDjoTCMnv33Bs81gpg0HqRaOrHrNGjziAg1DgtPFkBDrFh+Xnx1m8SB+Y++XF+C/U5XuOoQHaIJOyT9BA=="/>
         </item>
     </channel>
 </rss>
