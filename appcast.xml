@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MeetingMind</title>
+        <item>
+            <title>0.1.2</title>
+            <pubDate>Fri, 17 Jul 2026 21:22:56 -0700</pubDate>
+            <sparkle:version>0.1.2</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/FlourishingHumanityCorporation/MeetingMind-Releases/main/MeetingMind-0.1.2.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/FlourishingHumanityCorporation/MeetingMind-Releases/releases/download/v0.1.2/MeetingMind-0.1.2.zip" length="84692079" type="application/octet-stream" sparkle:edSignature="eUFsoeUB8UuTB3LiS0pw4cwQtt4EEoFEEAkDZ7nCCMlk95o2LfQs7Rvprl+7m/KMnuVlmgQL9ElwXE3kTgfkDA=="/>
+        </item>
+    </channel>
+</rss>
